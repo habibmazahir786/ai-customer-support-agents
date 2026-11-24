@@ -1,0 +1,44 @@
+[
+  {
+    "id": "ai-customer-support-agents",
+    "title": "AI customer support agents",
+    "content": "AI customer support agents use natural-language processing and approved support information to answer customer questions. Their answers should be grounded in relevant business sources.",
+    "tags": ["customer support", "AI agents", "support automation"]
+  },
+  {
+    "id": "business-specific-ai-agents",
+    "title": "Business-specific AI agents",
+    "content": "A business-specific AI agent can use a company's reviewed knowledge base to respond with information relevant to that business. The information can include policies, product details, and support guidance.",
+    "tags": ["business AI", "company data", "custom knowledge"]
+  },
+  {
+    "id": "customer-support-automation",
+    "title": "Customer support automation",
+    "content": "Customer support automation can help answer recurring questions by retrieving approved answers from FAQs and support documents. Escalate questions that need a person or are not covered by the available information.",
+    "tags": ["automation", "FAQ", "support workflow"]
+  },
+  {
+    "id": "retrieval-augmented-generation",
+    "title": "Retrieval-Augmented Generation",
+    "content": "Retrieval-Augmented Generation (RAG) retrieves relevant information from a knowledge source and provides it as context to a language model. RAG can help ground generated answers in current business information without fine-tuning the model.",
+    "tags": ["RAG", "retrieval", "language model", "grounded answers"]
+  },
+  {
+    "id": "business-documents-and-faqs",
+    "title": "Business documents and FAQs",
+    "content": "Business documents and FAQs can provide an AI support agent with product guidance, policies, and answers to common questions. Keep this information accurate, reviewed, and appropriate to share with customers.",
+    "tags": ["documents", "FAQs", "knowledge base", "business data"]
+  },
+  {
+    "id": "product-information-retrieval",
+    "title": "Product information retrieval",
+    "content": "An AI support agent can retrieve product descriptions, feature details, and troubleshooting guidance from a business knowledge base. Include verified product information and update it when product details change.",
+    "tags": ["products", "product details", "catalog", "retrieval"]
+  },
+  {
+    "id": "ai-powered-customer-service",
+    "title": "AI-powered customer service",
+    "content": "AI-powered customer service combines automated responses with access to relevant support information. Clear source references and a human escalation path help customers verify answers and get assistance when needed.",
+    "tags": ["customer service", "AI support", "human escalation"]
+  }
+]

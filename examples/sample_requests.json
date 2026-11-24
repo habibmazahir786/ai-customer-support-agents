@@ -1,0 +1,16 @@
+[
+  {
+    "method": "POST",
+    "path": "/ask",
+    "body": {
+      "message": "How can AI agents use business documents?"
+    }
+  },
+  {
+    "method": "POST",
+    "path": "/webhook",
+    "body": {
+      "message": "What is retrieval-augmented generation?"
+    }
+  }
+]
